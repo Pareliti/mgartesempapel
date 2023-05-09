@@ -1,0 +1,76 @@
+/* Estilos para o cabeçalho */
+header {
+    background-color: #f1f1f1;
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  nav li a:hover {
+    background-color: #ddd;
+  }
+  
+  /* Estilos para as seções */
+  section {
+    padding: 20px;
+  }
+  
+  section h2 {
+    margin-top: 0;
+  }
+  
+  section ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  section li {
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: top;
+    text-align: center;
+  }
+  
+  section li img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  section li h3 {
+    margin: 0;
+  }
+  
+  section li p {
+    margin: 0;
+  }
+  
+  /* Estilos para o rodapé */
+  footer {
+    background-color: #ddd;
+    padding: 20px;
+    text-align: center;
+  }
+  
